@@ -1,5 +1,5 @@
 <h1>Hi, I am Shtrestha Jaiswal 👋 👨‍💻</h1>
-<img src = "">
+<img src = "https://github.com/sj1705/sj1705/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png">
 
 I am a pre-final student pursuing engineering in Computer science with specialization in Cloud Computing and 
 Virtualization Technology. I am Entry level Web-developer, Coder and Cloud Computing Enthusiast. I have enhanced my 
