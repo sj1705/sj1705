@@ -7,4 +7,5 @@ leadership and teamwork qualities by various experience in College-Committees an
 towards my goals. I am looking for new ways to mitigate risk, increase efficiency, and create new opportunities.
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj1705)](https://github.com/sj1705/github-readme-stats)  ![Shrestha's github stats](https://github-readme-stats.vercel.app/api?username=sj1705) 
