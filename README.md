@@ -1,6 +1,6 @@
 <h1>Hi, I am Shrestha Jaiswal 👋 👨‍💻</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=70&duration=2000&pause=1000&center=true&width=800&height=100&lines=Welcome" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=70&duration=2000&pause=1000&center=true&width=1000&height=100&lines=Welcome" alt="Typing SVG" /></a>
 
 <img src = "https://github.com/sj1705/sj1705/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png">
 
