@@ -9,5 +9,5 @@ towards my goals. I am looking for new ways to mitigate risk, increase efficienc
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj1705)](https://github.com/sj1705/github-readme-stats)  ! -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sj1705&theme=dark)](https://git.io/streak-stats)
+[                                   ][![GitHub Streak](https://streak-stats.demolab.com/?user=sj1705&theme=dark)](https://git.io/streak-stats)
 
