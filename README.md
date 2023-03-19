@@ -4,9 +4,7 @@
 <img src = "https://github.com/sj1705/sj1705/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png">
 
 I am a pre-final student pursuing engineering in Computer science with specialization in Cloud Computing and 
-Virtualization Technology. I am Entry level Web-developer, Coder and Cloud Computing Enthusiast. I have enhanced my 
-leadership and teamwork qualities by various experience in College-Committees and Group Projects. I am very passionate 
-towards my goals. I am looking for new ways to mitigate risk, increase efficiency, and create new opportunities.
+Virtualization Technology. I am interested in Full stack Development , Web3 , DSA . 
 
 
 
