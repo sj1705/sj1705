@@ -1,4 +1,4 @@
-##<h1>Hi, I am Shrestha Jaiswal</h1>
+<h1>Hi, I am Shrestha Jaiswal</h1>
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=70&duration=2000&pause=1000&center=true&width=1000&height=100&lines=Welcome" alt="Typing SVG" /></a>
  -->
