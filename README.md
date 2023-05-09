@@ -6,6 +6,7 @@ I am a pre-final student pursuing engineering in Computer science with specializ
 Virtualization Technology. 
 I am interested in Full stack Development , Web3 , DevOps . 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sj1705&label=Profile%20views&color=0e75b6&style=flat" alt="sj1705" /> </p>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj1705)](https://github.com/sj1705/github-readme-stats)  ! -->
