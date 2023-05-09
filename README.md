@@ -8,7 +8,7 @@ I am interested in Full stack Development , Web3 , DevOps .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj1705&label=Profile%20views&color=0e75b6&style=flat" alt="sj1705" /> </p>
 
-<img align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj1705)](https://github.com/sj1705/github-readme-stats)  ! -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sj1705&theme=algolia)](https://git.io/streak-stats)
