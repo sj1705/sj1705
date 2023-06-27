@@ -11,7 +11,7 @@ I am interested in Full stack Development , Web3 , DevOps .
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sj1705&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sj1705&show_icons=true&theme=tokyonight#gh-dark-mode-only" /> ! -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sj1705)](https://github.com/sj1705/github-readme-stats)  ! -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sj1705&theme=algolia)](https://git.io/streak-stats)
