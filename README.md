@@ -15,8 +15,11 @@ I am interested in Full stack Development , Web3 , DevOps .
   <a href="https://leetcode.com/sj1705/">
     <img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
+  <a href="https://shrestha-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
-
+<div></div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia" />
 
 
