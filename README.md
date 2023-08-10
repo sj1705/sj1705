@@ -19,8 +19,8 @@ I am interested in Full stack Development , Web3 , DevOps .
     <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia"/>
-
-
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia"/>
+ -->
+![Drag Racing](https://github-readme-streak-stats.herokuapp.com?user=sj1705&theme=algolia)
 
 
