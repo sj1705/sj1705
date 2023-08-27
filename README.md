@@ -2,7 +2,7 @@
 
 
 
-I am a pre-final student pursuing engineering in Computer science with specialization in Cloud Computing and 
+I am a final student pursuing engineering in Computer science with specialization in Cloud Computing and 
 Virtualization Technology. 
 I am interested in Full stack Development , Web3 , DevOps . 
 
