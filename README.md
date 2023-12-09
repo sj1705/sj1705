@@ -1,4 +1,4 @@
-<h1>Hi, I am Shrestha (SarvShreshth😎) Jaiswal</h1>
+<h1>Hi, I am Shrestha (SarvShreshth) Jaiswal</h1>
 
 
 
