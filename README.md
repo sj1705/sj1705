@@ -2,8 +2,7 @@
 
 
 
-I am a final student pursuing engineering in Computer science with specialization in Cloud Computing and 
-Virtualization Technology. 
+I am Learning . 
 I am interested in Full stack Development , Web3 , DevOps . 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj1705&label=Profile%20views&color=0e75b6&style=flat" alt="sj1705" /> </p>
