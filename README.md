@@ -1,8 +1,6 @@
 <h1>Hi, I am Shrestha Jaiswal</h1>
 
 
-
-I am Learning. 
 I am interested in Full stack Development , Web3 , DevOps . 
 
 
